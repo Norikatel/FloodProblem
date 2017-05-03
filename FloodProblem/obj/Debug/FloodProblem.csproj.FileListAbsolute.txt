@@ -1,0 +1,12 @@
+c:\users\norik\documents\visual studio 2017\Projects\FloodProblem\FloodProblem\bin\Debug\FloodProblem.exe.config
+c:\users\norik\documents\visual studio 2017\Projects\FloodProblem\FloodProblem\bin\Debug\FloodProblem.exe
+c:\users\norik\documents\visual studio 2017\Projects\FloodProblem\FloodProblem\bin\Debug\FloodProblem.pdb
+c:\users\norik\documents\visual studio 2017\Projects\FloodProblem\FloodProblem\obj\Debug\FloodProblem.csprojResolveAssemblyReference.cache
+c:\users\norik\documents\visual studio 2017\Projects\FloodProblem\FloodProblem\obj\Debug\FloodProblem.exe
+c:\users\norik\documents\visual studio 2017\Projects\FloodProblem\FloodProblem\obj\Debug\FloodProblem.pdb
+C:\Users\norik\Desktop\devexp\v2\FloodProblem\FloodProblem\bin\Debug\FloodProblem.exe.config
+C:\Users\norik\Desktop\devexp\v2\FloodProblem\FloodProblem\bin\Debug\FloodProblem.exe
+C:\Users\norik\Desktop\devexp\v2\FloodProblem\FloodProblem\bin\Debug\FloodProblem.pdb
+C:\Users\norik\Desktop\devexp\v2\FloodProblem\FloodProblem\obj\Debug\FloodProblem.csprojResolveAssemblyReference.cache
+C:\Users\norik\Desktop\devexp\v2\FloodProblem\FloodProblem\obj\Debug\FloodProblem.exe
+C:\Users\norik\Desktop\devexp\v2\FloodProblem\FloodProblem\obj\Debug\FloodProblem.pdb
